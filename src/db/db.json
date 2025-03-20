@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "66151a02-057c-4d96-8198-892768819773",
+    "name": "Miss Iris Stehr",
+    "phone": "511.925.1895 x171",
+    "email": "Reta31@hotmail.com",
+    "job": "Customer Research Associate"
+  },
+  {
+    "id": "7ce0c3d2-e77d-474e-8367-758b7bb79e41",
+    "name": "Felix Gislason",
+    "phone": "968.630.4455 x105",
+    "email": "Marina45@hotmail.com",
+    "job": "Legacy Division Planner"
+  },
+  {
+    "id": "4ad6f033-d826-4df5-a1b9-4507c3f62a9b",
+    "name": "Clyde Parisian",
+    "phone": "601-810-6645",
+    "email": "Jerry.Anderson@yahoo.com",
+    "job": "Direct Directives Supervisor"
+  },
+  {
+    "id": "b9b0c430-05f3-457c-9ffc-ef7d0c8885c7",
+    "name": "Miss Eloise Rau",
+    "phone": "330-898-6365 x762",
+    "email": "Melany.Keeling96@gmail.com",
+    "job": "Product Division Specialist"
+  },
+  {
+    "id": "71ae043c-07c9-4235-b3d2-1fb23387db78",
+    "name": "Mr. Raul Labadie",
+    "phone": "(459) 847-2116 x48028",
+    "email": "Lilla.Russel@hotmail.com",
+    "job": "Principal Quality Planner"
+  }
+]
